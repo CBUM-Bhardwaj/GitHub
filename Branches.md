@@ -42,3 +42,4 @@ After working on a feature branch, you often want to **combine it with another b
 **Command:**
 ```bash
 git merge <branch_name>
+```
