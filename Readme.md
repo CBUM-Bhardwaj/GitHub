@@ -1,4 +1,4 @@
-# Basic Git and GitHub Workflows
+# Git & GitHub Basics
 ---
 
 **Author:** Shivam Bhardwaj  
