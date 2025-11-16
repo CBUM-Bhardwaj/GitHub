@@ -1,4 +1,4 @@
-### Managing Branches
+# Managing Branches
 
 Branches allow you to work on **different versions of your project** without affecting the main code.  
 
