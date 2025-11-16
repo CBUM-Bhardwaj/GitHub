@@ -119,3 +119,8 @@ To update your local repository with the latest changes from the remote reposito
 git pull origin <branch_name>
 ```
 ---
+
+### Next Module
+
+Continue learning with [Branches](Branches.md) → Branching, merging, and switching.
+---
