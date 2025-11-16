@@ -13,6 +13,12 @@ This repository is created to demonstrate basic Git and GitHub workflows. It con
 
 ---
 
+**File Structure:**
+
+- `README.md` → Main overview and instructions  
+- `Git-Basics.md` → Covers basic Git workflow commands like `add`, `commit`, `restore`  
+- `Branches.md` → Covers branch creation, switching, and merging  
+
 ## Features
 
 - Sample scripts and configuration files
@@ -29,3 +35,9 @@ This repository is created to demonstrate basic Git and GitHub workflows. It con
 - GitHub account
 
 ---
+
+## Modules
+
+- [Git Basics](Git-Basics.md) → Learn how to add, commit, restore files
+- [Branches](Branches.md) → Learn about branching and merging
+
